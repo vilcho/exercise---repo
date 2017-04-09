@@ -1,2 +1,4 @@
 exercise
 Now exercising changes with git bash
+
+Now changing in master branch to create conflict.
