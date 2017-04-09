@@ -1,2 +1,4 @@
 exercise
 Now exercising changes with git bash
+
+Making changes in local branch created with git bash.
