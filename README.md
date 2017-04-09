@@ -9,5 +9,7 @@ And one change from master locally
 Hello again from the branch develop
 
 Now creating conflict with git bash
+And that's the conflict - web
+
 
 
