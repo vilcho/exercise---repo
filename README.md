@@ -8,3 +8,6 @@ And one change from master locally
 
 Hello again from the branch develop
 
+And that's the conflict - web
+
+
